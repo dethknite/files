@@ -23,3 +23,5 @@ https://iplists.firehol.org/files/tor_exits.ipset
 https://iplists.firehol.org/files/yoyo_adservers.ipset
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
 https://raw.githubusercontent.com/Audionut/IPSet_ASUS/master/country_block_list.ipset
+https://ru.myip.ms/files/blacklist/csf/latest_blacklist.txt
+https://ru.myip.ms/files/blacklist/csf/latest_blacklist_users_submitted.txt
