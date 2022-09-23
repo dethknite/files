@@ -17,7 +17,6 @@ https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
-https://iplists.firehol.org/files/yoyo_adservers.ipset
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
 https://ru.myip.ms/files/blacklist/csf/latest_blacklist.txt
 https://ru.myip.ms/files/blacklist/csf/latest_blacklist_users_submitted.txt
