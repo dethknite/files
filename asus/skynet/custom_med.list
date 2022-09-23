@@ -12,7 +12,7 @@ https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level2.netset	
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
-https://iplists.firehol.org/files/firehol_webserver.netset
+https://iplists.firehol.org/files/iblocklist_ads.netset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
