@@ -3,8 +3,10 @@ https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/dshield_30d.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
+https://iplists.firehol.org/files/et_dshield.netset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_abusers_1d.netset
 https://iplists.firehol.org/files/firehol_abusers_30d.netset
@@ -13,9 +15,11 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/iblocklist_ads.netset
+https://iplists.firehol.org/files/iblocklist_cruzit_web_attacks.netset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
+https://iplists.firehol.org/files/normshield_high_webscan.ipset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/firewall/spy.txt
 https://ru.myip.ms/files/blacklist/csf/latest_blacklist.txt
