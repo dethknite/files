@@ -3,8 +3,11 @@ https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/dshield_1d.netset
+https://iplists.firehol.org/files/dshield_30d.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/et_block.netset
+https://iplists.firehol.org/files/et_dshield.netset
 https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/firehol_abusers_1d.netset
 https://iplists.firehol.org/files/firehol_abusers_30d.netset
@@ -18,6 +21,7 @@ https://iplists.firehol.org/files/iblocklist_ads.netset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
+https://iplists.firehol.org/files/normshield_high_webscan.ipset
 https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/tor_exits.ipset
